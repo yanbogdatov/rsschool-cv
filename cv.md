@@ -3,7 +3,7 @@
 ### Professional Profile:
 #### Have achieved good mathematical scores either in GRE and SAT exams, which are showing good analytical thinking. Fluently speaking Russian and English. During educational process had an experience in working with C#, Python - Django, Entity Framework, ASP.NET MVC 5, T-SQL and some basics of testing and QA. 
 #### Highly motivated in getting more professional experience in developing applications.
-#### Skills and achievements:
+### Skills and achievements:
 ####
 *	Some knowledge of C# and Python
 *	Experience with ASP.NET MVC 5, Django, T-SQL and Entity Framework
